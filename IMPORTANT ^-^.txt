@@ -1,0 +1,5 @@
+IMPORTANT
+
+- If on ChromeBook delete "System Volume Information Folder" as it is useless.
+- After opening the ".HTML" file please sign into your personal gmail to ensure accessibility
+- Lastly, GAME ON
